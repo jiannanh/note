@@ -1,0 +1,30 @@
+10. Tell me a time when you missed deadline (customer obsession, Deliver Results)*
+
+I'm working on an internship project with strict deadlines. This is a migration project. The manager asked me to learn the difference between the new and the old two different projects and complete the migration after two weeks. This task is very new to me and I realize from the initial information that there is a huge amount of knowledge to learn. I made tasks my priority and started reading previous code and design docs. But as I went through it, I realized that the design process was long and complex. I started slack buying based on previous code and documentation. Due to the limited training resources in my department, I also quickly read almost everything about it. I spent all the extra time in the evenings and the whole weekend. However, I still haven't been able to complete the whole project, I only provide partial results because there are many corner cases. My manager was not happy at first, but he was willing to give me more time based on the fact that I found a lot of problems and corner cases that I hadn't seen before. I then showed him my detailed plan below and moved on to work on the rest. In the end, I finished all parts to a high standard.
+我正在做一个有严格截止日期的实习项目。这是一个迁移项目。经理要求我学习新的和老的两个不同项目的差别，并在两周之后完成迁移。这项任务对我的来说非常新，我根据最初的信息意识到了巨大的知识知识需要学习。我将任务作为我的首要任务，并开始阅读之前的代码和设计文档。但是当我经历它时，我意识到设计的流程很长，而且非常复杂。我根据之前的代码和文档开始懈怠买。由于我部门的培训资源有限，我也快速阅读了几乎所有有关的资料。我把所有额外的时间都花在了晚上和整个周末上。但是，我仍然未能完成整个项目，我只提供了部分结果，因为有很多corner cases。我的经理一开始并不高兴，但基于我发现了很多之前没有发现的问题和corner cases，他愿意给我更多的时间。然后我向他展示了我下面的详细计划，并继续努力完成剩下的部分。最后，我以高标准完成了所有部分。
+
+Tell me a time you helped people.
+11. Tell me a time when you took on something significant outside your area of responsibility (Ownership)*
+
+During my internship, I'm working on an API focused on databases. We use these APIs to control the data in the database. However, each database has its different design. I think writing the API for each table is slow, so we need to write an automated conversion tool, which was previously unfinished. I then proposed to the lead that the tool could be done; I spent extra time on evenings and weekends analyzing their code and fixing issues. I've also written a document with better guidelines for using these tools. And continue to improve the tool in the follow-up work. Finally my manager praised me.
+在我的实习期间，我正在从事一个专注于数据库的api。 我们用这些api去控制数据库里的数据。 然而，每一个数据库都有他不同的设计。 我认为为每一个表手写API很慢，所以我们需要写一个自动化的转换工具，之前有一个未完成的工具。 然后我向领导提出可以完成这个工具； 我在晚上和周末花费了额外的时间来分析他们的代码并解决问题。 我还编写了一份文档，其中包含使用这些工具的更好指南。 并且在后续的工作中不断改进工具。 最后我的经理表扬了我。
+
+decision/conflict
+
+I am working on a project during my internship which is a table schema converter. You know, each table has a different schema, and some tables are special, and over time, the original design is even less up-to-date. After the converter is completed, I found that some tables have some corner cases. I completed the processing of the corner cases in a very short time, but the processing is not very decent. My manager suggested that I listen to more people's opinions. Some people say keep the original code, although there are some hard codes, but others say, try to keep the code clean and readable. So I counted all the corner cases and found that the proportion was very small and less than 5%. So I ended up with a best effort code, with documentation attached. The manager agreed with my proposal after seeing my data.
+我在实习期间正在做一个项目，这是一个表模式转换器。你知道的,每个表都有不同的schema，有的表格比较特殊，随着时间的推移，当初的设计更不上时代。在converter完成之后，发现一些表存在一些corner case，我在很短的时间内就完成了corner case的处理，但是这些处理不是很decent。我的manager建议我听听更多人的意见。有的人说保留原来的代码，虽然有一些hard code，但是其他人说，尽量要保证代码的整洁和readability。于是我统计了所有corner case的情况，发现占比很小不到5%。于是最后完成了一个best effort的代码，并且附上了说明文档。经理看了我的数据之后同意了我的提议。
+
+challenges work
+
+2 the hardest thing you have ever achieved(1 min)
+Core App Bytecode Performance Instrument
+• Developed instrumentation that collects performance metrics of specific methods within the Core App
+• Attached the instrumentation to Core App's bytecode, and injected performance instrumentation code into target classes/methods
+• Instrumenting without changing source code helped reduced the investigation time from a couple of days to a few minus
+• Developed using JAVA, JVM, Linux, Shell, Javassist, JFR profiles
+
+3 A time you have failed(90 s)
+
+As a computer science student, we often have a lot of assignments from programming teams, and sometimes we need teams to submit code.
+Once again the smell team accidentally committed the wrong code. Luckily we discovered this problem before the professor marked the homework. So, we made a plan. Send a classmate to communicate with the professor and explain our situation. Other students found the version on git that had no recent problems, and then found out the problem. In the end it turned out to be a minor problem. Therefore, we immediately revised and submitted it to the professor separately and explained the situation.
+As you can see from this incident, it is normal for errors to occur. We need to stay calm, find the root of the problem, and come up with a solution.
